@@ -1,0 +1,13 @@
+@mixin dis-f {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin font-g {
+  font-family: "Galien Regular";
+}
+
+@mixin font-r {
+  font-family: "Gilroy-Regular";
+}
